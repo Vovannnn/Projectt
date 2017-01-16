@@ -10,5 +10,10 @@ public class Program
 	{
 		return a + b;
 	}
+	public int input(String text)
+	{
+		System.out.println(text);
+		return scanner.nextInt();
+	}
 		
 }
