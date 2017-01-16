@@ -8,5 +8,9 @@ public class Program
 	{
 		return a + b;
 	}
+	public int power(int a ,int b)
+	{
+		return a * b;
+	}
 		
 }
